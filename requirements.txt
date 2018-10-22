@@ -1,0 +1,2 @@
+yellowbrick==0.8
+jupyter==1.0.0
